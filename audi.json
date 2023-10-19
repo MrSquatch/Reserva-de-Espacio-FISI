@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Conferencia en Auditorio",
+    "start": "2023-10-02T09:00:00",
+    "end": "2023-10-02T12:00:00"
+  },
+  {
+    "title": "Reunión de Equipo en Auditorio",
+    "start": "2023-10-07T14:00:00",
+    "end": "2023-10-07T16:00:00"
+  },
+  {
+    "title": "Seminario en Auditorio",
+    "start": "2023-10-15T10:30:00",
+    "end": "2023-10-15T12:30:00"
+  },
+  {
+    "title": "Presentación en Auditorio",
+    "start": "2023-10-20T13:00:00",
+    "end": "2023-10-20T15:00:00"
+  },
+  {
+    "title": "Taller en Auditorio",
+    "start": "2023-10-25T11:00:00",
+    "end": "2023-10-25T13:00:00"
+  },
+  {
+    "title": "Charla en Auditorio",
+    "start": "2023-10-30T16:30:00",
+    "end": "2023-10-30T18:30:00"
+  },
+  {
+    "title": "Entrevista en Auditorio",
+    "start": "2023-10-05T15:00:00",
+    "end": "2023-10-05T16:30:00"
+  },
+  {
+    "title": "Presentación de Proyecto en Auditorio",
+    "start": "2023-10-12T10:00:00",
+    "end": "2023-10-12T11:30:00"
+  }
+]
