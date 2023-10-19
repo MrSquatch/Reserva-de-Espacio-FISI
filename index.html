@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8" />
+  <title>Reserva de Horarios</title>
+
+  <script src='https://cdn.jsdelivr.net/npm/rrule@2.6.4/dist/es5/rrule.min.js'></script>
+  
+  <script src="https://cdn.jsdelivr.net/npm/fullcalendar@6.1.9/index.global.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/fullcalendar@5.10.1/locales-all.js"></script>
+
+  <script src='https://cdn.jsdelivr.net/npm/@fullcalendar/rrule@6.1.9/index.global.min.js'></script>
+
+  <link rel="stylesheet" type="text/css" href="base.css" />
+  <link rel="stylesheet" type="text/css" href="script.css" />
+
+  <script src="calendar.js"></script>
+</head>
+
+<body>
+  <div class="topbar">
+    <div class="topbar__container container">
+      <div class="topbar__branding">
+        <a class="branding" href="/">
+          <div class="branding-graphic"></div>
+          <div class="branding-text">Espacios FISI - Reserva de Horarios</div>
+        </a>
+      </div>
+    </div>
+  </div>
+
+  <div class="container" style="padding-top: 30px;">
+
+    <p style="font-size:x-large;">
+      Bienvenido al Sistema de Reserva de Espacios de la FISI!
+    </p>
+    <br>
+
+    <p style="font-size:large;">
+      Pasos para solicitar correctamente la reserva de un espacio:
+
+    <ul style="list-style-type: circle; padding-left: 30px;">
+      <li>Seleccione en el menu desplegable el espacio que desea reservar</li>
+      <li>Revise si hay disponibilidad a la hora que desea</li>
+      <li>Si el horario que desea esta disponible, dele clic a "Solicitar reserva"</li>
+      <li>Llene el forms con los datos correspondientes para solicitar su reserva</li>
+      <li>Una vez enviada la solicitud, espere la confirmacion por su correo institucional</li>
+    </ul>
+
+    </p>
+    <br>
+
+    <label for="opciones">¿Qué espacio desea revisar?:</label>
+
+    <select id="opciones" name="opciones" onchange="cambiarHorario()">
+      <option value="0">--Seleccione--</option>
+      <option value="cancha">Cancha de Futbol</option>
+      <option value="audi">Auditorio</option>
+      <option value="magna">Aula Magna</option>
+    </select>
+
+  </div>
+
+  <div class="demos__main">
+    <div class="demos__main-container" id="demo-content">
+      <div class="demo-calendar fc fc-media-screen fc-direction-ltr fc-theme-standard" id="calendar">
+      </div>
+    </div>
+  </div>
+  </div>
+  </div>
+  </div>
+
+  <div class="footer">
+    <div class="footer__container container">
+      <div class="footer__left">
+
+      </div>
+      <div class="footer__right">
+        <p>
+          <strong>&#10071; Cachimbos sin control &#128540;&#10071;</strong>
+        </p>
+        <p>
+          Hecho con &#128151 para la FISI
+        </p>
+        <p>
+          Hackaton Eneisoft - 2023
+        </p>
+      </div>
+    </div>
+  </div>
+</body>
+
+</html>
