@@ -2,7 +2,7 @@
   {
     "title": "Conferencia en Auditorio",
     "start": "2023-10-02T09:00:00",
-    "end": "2023-10-02T12:00:00"
+    "end": "2023-10-03T12:00:00"
   },
   {
     "title": "Reunión de Equipo en Auditorio",
@@ -10,14 +10,9 @@
     "end": "2023-10-07T16:00:00"
   },
   {
-    "title": "Seminario en Auditorio",
-    "start": "2023-10-15T10:30:00",
-    "end": "2023-10-15T12:30:00"
-  },
-  {
-    "title": "Presentación en Auditorio",
-    "start": "2023-10-20T13:00:00",
-    "end": "2023-10-20T15:00:00"
+    "title": "Presentación Hackaton",
+    "start": "2023-10-20T17:00:00",
+    "end": "2023-10-20T20:00:00"
   },
   {
     "title": "Taller en Auditorio",
@@ -38,5 +33,10 @@
     "title": "Presentación de Proyecto en Auditorio",
     "start": "2023-10-12T10:00:00",
     "end": "2023-10-12T11:30:00"
+  },
+  {
+    "title": "Semana Eneisoft XIII",
+    "start": "2023-10-16T11:00:00",
+    "end": "2023-10-20T20:00:00"
   }
 ]

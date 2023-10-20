@@ -1,0 +1,42 @@
+[
+    {
+        "title": "Clase Magistral de Historia",
+        "start": "2023-10-02T14:00:00",
+        "end": "2023-10-02T16:00:00"
+    },
+    {
+        "title": "Conferencia de Ciencia y Tecnología",
+        "start": "2023-10-04T09:30:00",
+        "end": "2023-10-06T12:00:00"
+    },
+    {
+        "title": "Seminario de Literatura",
+        "start": "2023-10-10T15:00:00",
+        "end": "2023-10-10T17:00:00"
+    },
+    {
+        "title": "Taller de Lectura de Partituras",
+        "start": "2023-10-14T18:30:00",
+        "end": "2023-10-14T20:30:00"
+    },
+    {
+        "title": "Conferencia de Historia del Arte",
+        "start": "2023-10-18T10:30:00",
+        "end": "2023-10-18T12:30:00"
+    },
+    {
+        "title": "Clase de Economía Global",
+        "start": "2023-10-22T13:00:00",
+        "end": "2023-10-22T15:00:00"
+    },
+    {
+        "title": "Presentación de la Historia de Danzas Folklóricas",
+        "start": "2023-10-26T19:00:00",
+        "end": "2023-10-26T21:00:00"
+    },
+    {
+        "title": "Taller de Fotografía",
+        "start": "2023-10-12T16:00:00",
+        "end": "2023-10-12T18:00:00"
+    }
+]
