@@ -1,3 +1,13 @@
+.fc-event-time{
+  font-size: 14px;
+}
+
+.fc-event-title{
+  font-size: 14px;
+}
+
+
+
 .solicitar-button {
   display: inline-block;
   background-color: #3498db; /* Color de fondo */
